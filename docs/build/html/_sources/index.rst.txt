@@ -20,5 +20,5 @@ This blog is created to record development precedure, learning notes and other i
    
    development/sphinx.md
    development/Install Conda and Jupyter.md
-
+   development/github.md
 

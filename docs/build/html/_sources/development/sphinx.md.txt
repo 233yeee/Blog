@@ -16,3 +16,8 @@ html_theme_options = {
     'navigation_depth': 5,
 }
 ```
+
+## Deployment
+
+- [Documentation](https://www.sphinx-doc.org/en/master/tutorial/deploying.html)
+- [Read the Docs](https://readthedocs.org/)
