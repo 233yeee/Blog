@@ -19,6 +19,9 @@ This blog is created to record development precedure, learning notes and other i
    :hidden:
    
    development/sphinx.md
-   development/Install Conda and Jupyter.md
+   development/jupyter.md
    development/github.md
+   development/conda.md
+   development/python.md
+   development/nodejs.md
 
